@@ -1,0 +1,49 @@
+/* CSS FILE FOR THE CONTAINER */
+
+.Containers{
+	
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-areas: "header header header", "aside section foots";
+	
+}
+
+.Heads{
+	
+	grid-area: header;
+}
+
+.Section{
+	
+	grid-area: section;
+}
+
+
+.Foots{
+	
+	grid-area: foots;
+}
+
+.aside{
+	
+	grid-area:aside;
+	
+}
+
+
+.Containers>div{
+	
+	background-color:pink;
+	height:200px;
+	
+}
+
+
+@media only screen and(max-width:868px){
+	
+	.Container{
+		
+		grid-template-areas: header, section, foots,aside;
+	}
+	
+}

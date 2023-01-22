@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\Familydetails\Familydetails\bin\Debug\Familydetails.exe.config
+C:\Users\Windows\Desktop\Familydetails\Familydetails\bin\Debug\Familydetails.exe
+C:\Users\Windows\Desktop\Familydetails\Familydetails\bin\Debug\Familydetails.pdb
+C:\Users\Windows\Desktop\Familydetails\Familydetails\obj\Debug\Familydetails.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Familydetails\Familydetails\obj\Debug\Familydetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\Familydetails\Familydetails\obj\Debug\Familydetails.Form1.resources
+C:\Users\Windows\Desktop\Familydetails\Familydetails\obj\Debug\Familydetails.Properties.Resources.resources
+C:\Users\Windows\Desktop\Familydetails\Familydetails\obj\Debug\Familydetails.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Familydetails\Familydetails\obj\Debug\Familydetails.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Familydetails\Familydetails\obj\Debug\Familydetails.exe
+C:\Users\Windows\Desktop\Familydetails\Familydetails\obj\Debug\Familydetails.pdb

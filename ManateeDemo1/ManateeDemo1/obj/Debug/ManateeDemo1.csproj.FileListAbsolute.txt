@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\ManateeDemo1\ManateeDemo1\bin\Debug\ManateeDemo1.exe.config
+C:\Users\Windows\Desktop\ManateeDemo1\ManateeDemo1\bin\Debug\ManateeDemo1.exe
+C:\Users\Windows\Desktop\ManateeDemo1\ManateeDemo1\bin\Debug\ManateeDemo1.pdb
+C:\Users\Windows\Desktop\ManateeDemo1\ManateeDemo1\obj\Debug\ManateeDemo1.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\ManateeDemo1\ManateeDemo1\obj\Debug\ManateeDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\ManateeDemo1\ManateeDemo1\obj\Debug\ManateeDemo1.Form1.resources
+C:\Users\Windows\Desktop\ManateeDemo1\ManateeDemo1\obj\Debug\ManateeDemo1.Properties.Resources.resources
+C:\Users\Windows\Desktop\ManateeDemo1\ManateeDemo1\obj\Debug\ManateeDemo1.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\ManateeDemo1\ManateeDemo1\obj\Debug\ManateeDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\ManateeDemo1\ManateeDemo1\obj\Debug\ManateeDemo1.exe
+C:\Users\Windows\Desktop\ManateeDemo1\ManateeDemo1\obj\Debug\ManateeDemo1.pdb

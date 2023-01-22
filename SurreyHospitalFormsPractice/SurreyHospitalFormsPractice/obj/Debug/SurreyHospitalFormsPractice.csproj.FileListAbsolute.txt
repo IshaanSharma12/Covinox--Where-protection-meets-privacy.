@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\SurreyHospitalFormsPractice\SurreyHospitalFormsPractice\bin\Debug\SurreyHospitalFormsPractice.exe.config
+C:\Users\Windows\Desktop\SurreyHospitalFormsPractice\SurreyHospitalFormsPractice\bin\Debug\SurreyHospitalFormsPractice.exe
+C:\Users\Windows\Desktop\SurreyHospitalFormsPractice\SurreyHospitalFormsPractice\bin\Debug\SurreyHospitalFormsPractice.pdb
+C:\Users\Windows\Desktop\SurreyHospitalFormsPractice\SurreyHospitalFormsPractice\obj\Debug\SurreyHospitalFormsPractice.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\SurreyHospitalFormsPractice\SurreyHospitalFormsPractice\obj\Debug\SurreyHospitalFormsPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\SurreyHospitalFormsPractice\SurreyHospitalFormsPractice\obj\Debug\SurreyHospitalFormsPractice.Form1.resources
+C:\Users\Windows\Desktop\SurreyHospitalFormsPractice\SurreyHospitalFormsPractice\obj\Debug\SurreyHospitalFormsPractice.Properties.Resources.resources
+C:\Users\Windows\Desktop\SurreyHospitalFormsPractice\SurreyHospitalFormsPractice\obj\Debug\SurreyHospitalFormsPractice.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\SurreyHospitalFormsPractice\SurreyHospitalFormsPractice\obj\Debug\SurreyHospitalFormsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\SurreyHospitalFormsPractice\SurreyHospitalFormsPractice\obj\Debug\SurreyHospitalFormsPractice.exe
+C:\Users\Windows\Desktop\SurreyHospitalFormsPractice\SurreyHospitalFormsPractice\obj\Debug\SurreyHospitalFormsPractice.pdb

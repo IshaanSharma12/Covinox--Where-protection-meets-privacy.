@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\FinalWeek\FinalWeek\obj\Debug\FinalWeek.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\FinalWeek\FinalWeek\obj\Debug\FinalWeek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\FinalWeek\FinalWeek\obj\Debug\FinalWeek.Form1.resources
+C:\Users\Windows\Desktop\FinalWeek\FinalWeek\obj\Debug\FinalWeek.Properties.Resources.resources
+C:\Users\Windows\Desktop\FinalWeek\FinalWeek\obj\Debug\FinalWeek.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\FinalWeek\FinalWeek\obj\Debug\FinalWeek.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\FinalWeek\FinalWeek\bin\Debug\FinalWeek.exe.config
+C:\Users\Windows\Desktop\FinalWeek\FinalWeek\bin\Debug\FinalWeek.exe
+C:\Users\Windows\Desktop\FinalWeek\FinalWeek\bin\Debug\FinalWeek.pdb
+C:\Users\Windows\Desktop\FinalWeek\FinalWeek\obj\Debug\FinalWeek.exe
+C:\Users\Windows\Desktop\FinalWeek\FinalWeek\obj\Debug\FinalWeek.pdb

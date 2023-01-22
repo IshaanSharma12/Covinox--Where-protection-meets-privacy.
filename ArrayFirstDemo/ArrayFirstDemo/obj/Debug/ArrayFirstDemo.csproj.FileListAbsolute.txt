@@ -1,0 +1,8 @@
+C:\Users\Windows\Desktop\ArrayFirstDemo\ArrayFirstDemo\bin\Debug\ArrayFirstDemo.exe.config
+C:\Users\Windows\Desktop\ArrayFirstDemo\ArrayFirstDemo\bin\Debug\ArrayFirstDemo.exe
+C:\Users\Windows\Desktop\ArrayFirstDemo\ArrayFirstDemo\bin\Debug\ArrayFirstDemo.pdb
+C:\Users\Windows\Desktop\ArrayFirstDemo\ArrayFirstDemo\obj\Debug\ArrayFirstDemo.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\ArrayFirstDemo\ArrayFirstDemo\obj\Debug\ArrayFirstDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\ArrayFirstDemo\ArrayFirstDemo\obj\Debug\ArrayFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\ArrayFirstDemo\ArrayFirstDemo\obj\Debug\ArrayFirstDemo.exe
+C:\Users\Windows\Desktop\ArrayFirstDemo\ArrayFirstDemo\obj\Debug\ArrayFirstDemo.pdb

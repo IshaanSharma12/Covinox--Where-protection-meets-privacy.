@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\FridayIshaan_Final\FridayIshaan_Final\bin\Debug\FridayIshaan_Final.exe.config
+C:\Users\Windows\Desktop\FridayIshaan_Final\FridayIshaan_Final\bin\Debug\FridayIshaan_Final.exe
+C:\Users\Windows\Desktop\FridayIshaan_Final\FridayIshaan_Final\bin\Debug\FridayIshaan_Final.pdb
+C:\Users\Windows\Desktop\FridayIshaan_Final\FridayIshaan_Final\obj\Debug\FridayIshaan_Final.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\FridayIshaan_Final\FridayIshaan_Final\obj\Debug\FridayIshaan_Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\FridayIshaan_Final\FridayIshaan_Final\obj\Debug\FridayIshaan_Final.Form1.resources
+C:\Users\Windows\Desktop\FridayIshaan_Final\FridayIshaan_Final\obj\Debug\FridayIshaan_Final.Properties.Resources.resources
+C:\Users\Windows\Desktop\FridayIshaan_Final\FridayIshaan_Final\obj\Debug\FridayIshaan_Final.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\FridayIshaan_Final\FridayIshaan_Final\obj\Debug\FridayIshaan_Final.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\FridayIshaan_Final\FridayIshaan_Final\obj\Debug\FridayIshaan_Final.exe
+C:\Users\Windows\Desktop\FridayIshaan_Final\FridayIshaan_Final\obj\Debug\FridayIshaan_Final.pdb

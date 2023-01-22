@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\SampleFormsPractice\SampleFormsPractice\bin\Debug\SampleFormsPractice.exe.config
+C:\Users\Windows\Desktop\SampleFormsPractice\SampleFormsPractice\bin\Debug\SampleFormsPractice.exe
+C:\Users\Windows\Desktop\SampleFormsPractice\SampleFormsPractice\bin\Debug\SampleFormsPractice.pdb
+C:\Users\Windows\Desktop\SampleFormsPractice\SampleFormsPractice\obj\Debug\SampleFormsPractice.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\SampleFormsPractice\SampleFormsPractice\obj\Debug\SampleFormsPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\SampleFormsPractice\SampleFormsPractice\obj\Debug\SampleFormsPractice.Form1.resources
+C:\Users\Windows\Desktop\SampleFormsPractice\SampleFormsPractice\obj\Debug\SampleFormsPractice.Properties.Resources.resources
+C:\Users\Windows\Desktop\SampleFormsPractice\SampleFormsPractice\obj\Debug\SampleFormsPractice.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\SampleFormsPractice\SampleFormsPractice\obj\Debug\SampleFormsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\SampleFormsPractice\SampleFormsPractice\obj\Debug\SampleFormsPractice.exe
+C:\Users\Windows\Desktop\SampleFormsPractice\SampleFormsPractice\obj\Debug\SampleFormsPractice.pdb

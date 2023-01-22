@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<style>
+		.table {
+    display: table;
+    border-spacing: 20px;
+  }
+  .caption {
+    display: table-caption;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bold;
+  }
+  .row {display: table-row;}
+  .row > * {
+    display: table-cell;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    color:navy;
+  }
+	h1 {
+		text-align: center;
+		color: navy;
+		font-size:48px;
+	}
+			
+			
+		</style>
+	</head>
+	<body>
+	<h1>Using CSS Tables for Layout</h1>
+	<hr>
+	<div class="table">
+  		<div class="caption">Common Small Birds</div>
+  			<div class="row">
+    			<span><img src="images/kingfisher.png" alt="Kingfisher"></span>
+    			<span><img src="images/lorikeet.png" alt="Lorikeet"></span>
+    			<span><img src="images/parrot.png" alt="Parrot"></span>
+  			</div>
+  		<div class="row">
+    		<span>Kingfisher</span>
+    		<span>Lorikeet</span>
+    		<span>Parrot</span>
+ 		</div>
+  		<div class="row">
+    		<span><img src="images/robin.png" alt="Robin"></span>
+    		<span><img src="images/seagull.png" alt="Seagull"></span>
+    		<span><img src="images/sparrow.png" alt="Sparrow"></span>
+  		</div>
+  		<div class="row">
+    		<span>Robin</span>
+    		<span>Seagull</span>
+    		<span>Sparrow</span>
+ 		</div>		
+ 		
+	</div>
+
+		
+	</body>
+</html>

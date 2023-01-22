@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\Demo3Forms\Demo3Forms\bin\Debug\Demo3Forms.exe.config
+C:\Users\Windows\Desktop\Demo3Forms\Demo3Forms\bin\Debug\Demo3Forms.exe
+C:\Users\Windows\Desktop\Demo3Forms\Demo3Forms\bin\Debug\Demo3Forms.pdb
+C:\Users\Windows\Desktop\Demo3Forms\Demo3Forms\obj\Debug\Demo3Forms.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Demo3Forms\Demo3Forms\obj\Debug\Demo3Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\Demo3Forms\Demo3Forms\obj\Debug\Demo3Forms.Form1.resources
+C:\Users\Windows\Desktop\Demo3Forms\Demo3Forms\obj\Debug\Demo3Forms.Properties.Resources.resources
+C:\Users\Windows\Desktop\Demo3Forms\Demo3Forms\obj\Debug\Demo3Forms.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Demo3Forms\Demo3Forms\obj\Debug\Demo3Forms.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Demo3Forms\Demo3Forms\obj\Debug\Demo3Forms.exe
+C:\Users\Windows\Desktop\Demo3Forms\Demo3Forms\obj\Debug\Demo3Forms.pdb

@@ -1,0 +1,129 @@
+/* CSS file */
+
+/* style anchors */
+a {
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none; /* removes the default underline for the anchor*/
+	color: #ffffff;
+	font-weight: bold;
+}
+
+/* hovering over the anchor*/
+nav > a:hover {
+	background-color: gray;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-decoration: underline; /* underline for hovering over anchor*/
+}
+
+
+
+/* style navbar */
+ nav {
+	 background-color:#000000;
+	 color: #fff;
+	 padding-top: 5px;
+	 padding-bottom: 5px;
+ }
+ 
+ /* style logo image */
+ #logo {
+	 border-radius: 50%;
+	 height: 28px;
+	 width: 31px;
+ }
+ 
+ /* wrapping around second image */
+ #img2 {
+	 float: left;
+	 margin-right: 35px;
+ }
+ 
+ /* Styling of the first letter of the paragraph */
+ p.firstPage::first-letter {
+ 		font-size: x-large;
+	 	font-weight: bold;
+	 	color: navy;
+ }
+ 
+ blockquote {
+ 	font-style: italic;
+ }
+ 
+ /*styling of page layout using sectioning elements */
+ 
+ section {
+	 float:left;
+	 width:65%;
+	 margin-right: 20px;
+	 background-color: #efefd3;
+	 padding-left: 20px;
+	 padding-right: 10px;
+ }
+ 
+ aside {
+	 float: right;
+	 width: 28%;
+	 background-color: #cccbb9;
+	 padding-left: 20px;
+	 padding-right: 10px;
+ }
+ 
+ /*page background image and left margin */
+  body {
+  	background-image: url('../images/bg_image8.jpg');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-position: center;
+  	background-size: cover;
+	margin-left: 50px;
+  }
+ 
+ /*unordered list style */
+ ul {
+ 	list-style-type: square;
+ }
+ 
+ /*styling span content */
+ span.success {
+	 color: blue;
+	 font-weight: bold;
+	 font-style: italic;
+ }
+ 
+ dt {
+	 color: navy;
+	 font-weight: bold;
+ }
+ 
+ /* styling of the table */
+ table, th, td {
+	 border: 1px solid black;
+	 border-collapse: collapse;
+	 padding: 5px;
+ }
+ 
+ thead {
+	 background-color: gray;
+	 color: white;
+ }
+ 
+ tfoot {
+ 	font-style: italic;
+ }
+ tbody {
+	 background-color: #ced6ca;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

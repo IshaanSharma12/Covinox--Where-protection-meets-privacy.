@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\WinformAppPractice\WinformAppPractice\bin\Debug\WinformAppPractice.exe.config
+C:\Users\Windows\Desktop\WinformAppPractice\WinformAppPractice\bin\Debug\WinformAppPractice.exe
+C:\Users\Windows\Desktop\WinformAppPractice\WinformAppPractice\bin\Debug\WinformAppPractice.pdb
+C:\Users\Windows\Desktop\WinformAppPractice\WinformAppPractice\obj\Debug\WinformAppPractice.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\WinformAppPractice\WinformAppPractice\obj\Debug\WinformAppPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\WinformAppPractice\WinformAppPractice\obj\Debug\WinformAppPractice.Form1.resources
+C:\Users\Windows\Desktop\WinformAppPractice\WinformAppPractice\obj\Debug\WinformAppPractice.Properties.Resources.resources
+C:\Users\Windows\Desktop\WinformAppPractice\WinformAppPractice\obj\Debug\WinformAppPractice.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\WinformAppPractice\WinformAppPractice\obj\Debug\WinformAppPractice.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\WinformAppPractice\WinformAppPractice\obj\Debug\WinformAppPractice.exe
+C:\Users\Windows\Desktop\WinformAppPractice\WinformAppPractice\obj\Debug\WinformAppPractice.pdb

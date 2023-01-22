@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\Namesandgrades\Namesandgrades\bin\Debug\Namesandgrades.exe.config
+C:\Users\Windows\Desktop\Namesandgrades\Namesandgrades\bin\Debug\Namesandgrades.exe
+C:\Users\Windows\Desktop\Namesandgrades\Namesandgrades\bin\Debug\Namesandgrades.pdb
+C:\Users\Windows\Desktop\Namesandgrades\Namesandgrades\obj\Debug\Namesandgrades.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Namesandgrades\Namesandgrades\obj\Debug\Namesandgrades.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\Namesandgrades\Namesandgrades\obj\Debug\Namesandgrades.Form1.resources
+C:\Users\Windows\Desktop\Namesandgrades\Namesandgrades\obj\Debug\Namesandgrades.Properties.Resources.resources
+C:\Users\Windows\Desktop\Namesandgrades\Namesandgrades\obj\Debug\Namesandgrades.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Namesandgrades\Namesandgrades\obj\Debug\Namesandgrades.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Namesandgrades\Namesandgrades\obj\Debug\Namesandgrades.exe
+C:\Users\Windows\Desktop\Namesandgrades\Namesandgrades\obj\Debug\Namesandgrades.pdb

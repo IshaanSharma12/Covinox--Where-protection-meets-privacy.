@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\IshaanSharmaAssignment2\IshaanSharmaAssignment2\bin\Debug\IshaanSharmaAssignment2.exe.config
+C:\Users\Windows\Desktop\IshaanSharmaAssignment2\IshaanSharmaAssignment2\bin\Debug\IshaanSharmaAssignment2.exe
+C:\Users\Windows\Desktop\IshaanSharmaAssignment2\IshaanSharmaAssignment2\bin\Debug\IshaanSharmaAssignment2.pdb
+C:\Users\Windows\Desktop\IshaanSharmaAssignment2\IshaanSharmaAssignment2\obj\Debug\IshaanSharmaAssignment2.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\IshaanSharmaAssignment2\IshaanSharmaAssignment2\obj\Debug\IshaanSharmaAssignment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\IshaanSharmaAssignment2\IshaanSharmaAssignment2\obj\Debug\IshaanSharmaAssignment2.Form1.resources
+C:\Users\Windows\Desktop\IshaanSharmaAssignment2\IshaanSharmaAssignment2\obj\Debug\IshaanSharmaAssignment2.Properties.Resources.resources
+C:\Users\Windows\Desktop\IshaanSharmaAssignment2\IshaanSharmaAssignment2\obj\Debug\IshaanSharmaAssignment2.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\IshaanSharmaAssignment2\IshaanSharmaAssignment2\obj\Debug\IshaanSharmaAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\IshaanSharmaAssignment2\IshaanSharmaAssignment2\obj\Debug\IshaanSharmaAssignment2.exe
+C:\Users\Windows\Desktop\IshaanSharmaAssignment2\IshaanSharmaAssignment2\obj\Debug\IshaanSharmaAssignment2.pdb

@@ -1,0 +1,17 @@
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\bin\Debug\net7.0-windows\firstformsapp.exe
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\bin\Debug\net7.0-windows\firstformsapp.deps.json
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\bin\Debug\net7.0-windows\firstformsapp.runtimeconfig.json
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\bin\Debug\net7.0-windows\firstformsapp.dll
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\bin\Debug\net7.0-windows\firstformsapp.pdb
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\obj\Debug\net7.0-windows\firstformsapp.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\obj\Debug\net7.0-windows\firstformsapp.Form1.resources
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\obj\Debug\net7.0-windows\firstformsapp.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\obj\Debug\net7.0-windows\firstformsapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\obj\Debug\net7.0-windows\firstformsapp.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\obj\Debug\net7.0-windows\firstformsapp.AssemblyInfo.cs
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\obj\Debug\net7.0-windows\firstformsapp.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\obj\Debug\net7.0-windows\firstformsapp.dll
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\obj\Debug\net7.0-windows\refint\firstformsapp.dll
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\obj\Debug\net7.0-windows\firstformsapp.pdb
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\obj\Debug\net7.0-windows\firstformsapp.genruntimeconfig.cache
+C:\Users\Windows\Desktop\firstformsapp\firstformsapp\obj\Debug\net7.0-windows\ref\firstformsapp.dll

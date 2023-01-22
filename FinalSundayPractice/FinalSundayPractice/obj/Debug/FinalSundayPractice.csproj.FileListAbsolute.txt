@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\FinalSundayPractice\FinalSundayPractice\bin\Debug\FinalSundayPractice.exe.config
+C:\Users\Windows\Desktop\FinalSundayPractice\FinalSundayPractice\bin\Debug\FinalSundayPractice.exe
+C:\Users\Windows\Desktop\FinalSundayPractice\FinalSundayPractice\bin\Debug\FinalSundayPractice.pdb
+C:\Users\Windows\Desktop\FinalSundayPractice\FinalSundayPractice\obj\Debug\FinalSundayPractice.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\FinalSundayPractice\FinalSundayPractice\obj\Debug\FinalSundayPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\FinalSundayPractice\FinalSundayPractice\obj\Debug\FinalSundayPractice.Form1.resources
+C:\Users\Windows\Desktop\FinalSundayPractice\FinalSundayPractice\obj\Debug\FinalSundayPractice.Properties.Resources.resources
+C:\Users\Windows\Desktop\FinalSundayPractice\FinalSundayPractice\obj\Debug\FinalSundayPractice.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\FinalSundayPractice\FinalSundayPractice\obj\Debug\FinalSundayPractice.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\FinalSundayPractice\FinalSundayPractice\obj\Debug\FinalSundayPractice.exe
+C:\Users\Windows\Desktop\FinalSundayPractice\FinalSundayPractice\obj\Debug\FinalSundayPractice.pdb

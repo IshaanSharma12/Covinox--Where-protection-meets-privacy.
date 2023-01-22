@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\GradeBasic\GradeBasic\bin\Debug\GradeBasic.exe.config
+C:\Users\Windows\Desktop\GradeBasic\GradeBasic\bin\Debug\GradeBasic.exe
+C:\Users\Windows\Desktop\GradeBasic\GradeBasic\bin\Debug\GradeBasic.pdb
+C:\Users\Windows\Desktop\GradeBasic\GradeBasic\obj\Debug\GradeBasic.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\GradeBasic\GradeBasic\obj\Debug\GradeBasic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\GradeBasic\GradeBasic\obj\Debug\GradeBasic.Form1.resources
+C:\Users\Windows\Desktop\GradeBasic\GradeBasic\obj\Debug\GradeBasic.Properties.Resources.resources
+C:\Users\Windows\Desktop\GradeBasic\GradeBasic\obj\Debug\GradeBasic.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\GradeBasic\GradeBasic\obj\Debug\GradeBasic.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\GradeBasic\GradeBasic\obj\Debug\GradeBasic.exe
+C:\Users\Windows\Desktop\GradeBasic\GradeBasic\obj\Debug\GradeBasic.pdb

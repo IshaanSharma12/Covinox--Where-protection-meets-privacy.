@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+	<h1>HTML Data Table</h1>
+	<!-- a table is an object that consists of a collection of related elements. The root element is table element, tr is for rows, td is for column data, and th is for either column or row headings. -->
+	
+	<table>
+	<thead> <!-- table head rows -->
+		<tr>
+			<th>Heading1</th>
+			<th>Heading 2</th>
+			<th>Heading3</th>
+			<th>Heading 4</th></tr>
+	</thead>
+	<tbody> <!-- table body -->
+		<tr>
+			<td>Cell 1</td>
+			<td>Cell 2</td>
+			<td>Cell 3</td> 
+			<td>Cell 4</td></tr>
+		<tr>
+			<td>Cell 5</td>
+			<td rowspan="2">Cell 6</td>
+			<td>Cell 7</td>
+			<td>Cell 8</td></tr>
+		<tr>
+			<td>Cell 9</td>
+			<!--<td>Cell 10</td> -->
+			<td>Cell 11</td>
+			<td>Cell 12</td></tr>
+		<tr>
+			<td>Cell 13</td>
+			<td>Cell 14</td>
+			<td>Cell 15</td>
+			<td>Cell 16</td></tr>
+	</tbody>
+	<tfoot> <!-- table footer -->
+	<!-- use colspan attribute to make footer content span all 4 columns -->
+	<tr><td colspan="4">This is a table footer</td></tr>
+		
+	</tfoot>
+	
+	</table>
+		
+	</body>
+</html>

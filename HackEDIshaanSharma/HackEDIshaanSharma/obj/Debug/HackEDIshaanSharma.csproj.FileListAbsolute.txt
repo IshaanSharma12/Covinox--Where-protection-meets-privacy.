@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\HackEDIshaanSharma\HackEDIshaanSharma\bin\Debug\HackEDIshaanSharma.exe.config
+C:\Users\Windows\Desktop\HackEDIshaanSharma\HackEDIshaanSharma\bin\Debug\HackEDIshaanSharma.exe
+C:\Users\Windows\Desktop\HackEDIshaanSharma\HackEDIshaanSharma\bin\Debug\HackEDIshaanSharma.pdb
+C:\Users\Windows\Desktop\HackEDIshaanSharma\HackEDIshaanSharma\obj\Debug\HackEDIshaanSharma.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\HackEDIshaanSharma\HackEDIshaanSharma\obj\Debug\HackEDIshaanSharma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\HackEDIshaanSharma\HackEDIshaanSharma\obj\Debug\HackEDIshaanSharma.Form1.resources
+C:\Users\Windows\Desktop\HackEDIshaanSharma\HackEDIshaanSharma\obj\Debug\HackEDIshaanSharma.Properties.Resources.resources
+C:\Users\Windows\Desktop\HackEDIshaanSharma\HackEDIshaanSharma\obj\Debug\HackEDIshaanSharma.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\HackEDIshaanSharma\HackEDIshaanSharma\obj\Debug\HackEDIshaanSharma.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\HackEDIshaanSharma\HackEDIshaanSharma\obj\Debug\HackEDIshaanSharma.exe
+C:\Users\Windows\Desktop\HackEDIshaanSharma\HackEDIshaanSharma\obj\Debug\HackEDIshaanSharma.pdb

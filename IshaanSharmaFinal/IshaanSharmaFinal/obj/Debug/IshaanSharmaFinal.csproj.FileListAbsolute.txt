@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\IshaanSharmaFinal\IshaanSharmaFinal\bin\Debug\IshaanSharmaFinal.exe.config
+C:\Users\Windows\Desktop\IshaanSharmaFinal\IshaanSharmaFinal\bin\Debug\IshaanSharmaFinal.exe
+C:\Users\Windows\Desktop\IshaanSharmaFinal\IshaanSharmaFinal\bin\Debug\IshaanSharmaFinal.pdb
+C:\Users\Windows\Desktop\IshaanSharmaFinal\IshaanSharmaFinal\obj\Debug\IshaanSharmaFinal.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\IshaanSharmaFinal\IshaanSharmaFinal\obj\Debug\IshaanSharmaFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\IshaanSharmaFinal\IshaanSharmaFinal\obj\Debug\IshaanSharmaFinal.Form1.resources
+C:\Users\Windows\Desktop\IshaanSharmaFinal\IshaanSharmaFinal\obj\Debug\IshaanSharmaFinal.Properties.Resources.resources
+C:\Users\Windows\Desktop\IshaanSharmaFinal\IshaanSharmaFinal\obj\Debug\IshaanSharmaFinal.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\IshaanSharmaFinal\IshaanSharmaFinal\obj\Debug\IshaanSharmaFinal.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\IshaanSharmaFinal\IshaanSharmaFinal\obj\Debug\IshaanSharmaFinal.exe
+C:\Users\Windows\Desktop\IshaanSharmaFinal\IshaanSharmaFinal\obj\Debug\IshaanSharmaFinal.pdb

@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\Final2-1175\Final2-1175\bin\Debug\Final2-1175.exe.config
+C:\Users\Windows\Desktop\Final2-1175\Final2-1175\bin\Debug\Final2-1175.exe
+C:\Users\Windows\Desktop\Final2-1175\Final2-1175\bin\Debug\Final2-1175.pdb
+C:\Users\Windows\Desktop\Final2-1175\Final2-1175\obj\Debug\Final2-1175.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Final2-1175\Final2-1175\obj\Debug\Final2-1175.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\Final2-1175\Final2-1175\obj\Debug\Final2_1175.Form1.resources
+C:\Users\Windows\Desktop\Final2-1175\Final2-1175\obj\Debug\Final2_1175.Properties.Resources.resources
+C:\Users\Windows\Desktop\Final2-1175\Final2-1175\obj\Debug\Final2-1175.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Final2-1175\Final2-1175\obj\Debug\Final2-1175.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Final2-1175\Final2-1175\obj\Debug\Final2-1175.exe
+C:\Users\Windows\Desktop\Final2-1175\Final2-1175\obj\Debug\Final2-1175.pdb

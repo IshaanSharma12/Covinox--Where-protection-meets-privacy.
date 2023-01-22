@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\FinalPractice2\FinalPractice2\bin\Debug\FinalPractice2.exe.config
+C:\Users\Windows\Desktop\FinalPractice2\FinalPractice2\bin\Debug\FinalPractice2.exe
+C:\Users\Windows\Desktop\FinalPractice2\FinalPractice2\bin\Debug\FinalPractice2.pdb
+C:\Users\Windows\Desktop\FinalPractice2\FinalPractice2\obj\Debug\FinalPractice2.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\FinalPractice2\FinalPractice2\obj\Debug\FinalPractice2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows\Desktop\FinalPractice2\FinalPractice2\obj\Debug\FinalPractice2.Form1.resources
+C:\Users\Windows\Desktop\FinalPractice2\FinalPractice2\obj\Debug\FinalPractice2.Properties.Resources.resources
+C:\Users\Windows\Desktop\FinalPractice2\FinalPractice2\obj\Debug\FinalPractice2.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\FinalPractice2\FinalPractice2\obj\Debug\FinalPractice2.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\FinalPractice2\FinalPractice2\obj\Debug\FinalPractice2.exe
+C:\Users\Windows\Desktop\FinalPractice2\FinalPractice2\obj\Debug\FinalPractice2.pdb
